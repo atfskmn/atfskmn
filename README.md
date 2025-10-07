@@ -1,9 +1,4 @@
-
-
-![MasterHead]<img width="1024" height="1024" alt="Gemini_Generated_Image_rane40rane40rane" src="https://github.com/user-attachments/assets/1152be8c-28fe-4b2f-86c8-0c3e41ea3dec" />
-
-
-
+<img width="1001" height="668" alt="Gemini_Generated_Image_rane40rane40rane" src="https://github.com/user-attachments/assets/b74580eb-14e2-492e-80ad-b12466ce2177" />
 <h1 align="center">Hi 👋, I'm Bayram Atıf Sekmen</h1>
 <h3 align="center">Ben Atıf Sekmen, yazılım geliştirme alanında çeşitli teknolojilerle ilgilenen bir geliştiriciyim. Backend mimarileri, API geliştirme, veri tabanı tasarımı ve modern frontend teknolojileriyle kullanıcı dostu uygulamalar üretmekten keyif alıyorum.</h3>
 
