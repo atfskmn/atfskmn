@@ -39,7 +39,14 @@ I enjoy working with backend architectures, API design, database modeling, and m
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,quasar,kotlin,android,git,linux,mysql,postgresql,mariadb,firebase,postman,c" />
+  <!-- Skillicons ile çoğu teknoloji -->
+  <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,kotlin,android,git,linux,mysql,postgresql,firebase,c,html,css,js" />
+</p>
+<p align="center">
+  <!-- Skillicons'da olmayan logolar (manuel eklendi) -->
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 <br>
@@ -53,10 +60,8 @@ I enjoy working with backend architectures, API design, database modeling, and m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atfskmn&theme=tokyonight" alt="atfskmn" />
+  <img src="https://streak-stats.demolab.com?user=atfskmn&theme=tokyonight" alt="atfskmn" />
 </p>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake-dark.svg">
