@@ -71,7 +71,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atfskmn&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=atfskmn&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="atfskmn" />
 </p>
 
 
