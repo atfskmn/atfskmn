@@ -23,6 +23,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <li>📄 Know about my experiences: 
     <a href="https://drive.google.com/file/d/1UV4plEOGo3tMrDegMukO9_RZfNdWvlHi/view?usp=sharing" target="_blank">View my CV</a>
   </li>
+  <li>💎 <b>GitHub Plan:</b> Free Tier</li>
 </ul>
 
 ---
