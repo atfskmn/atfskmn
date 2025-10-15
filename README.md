@@ -1,7 +1,8 @@
 <img width="1001" height="668" alt="Gemini_Generated_Image_rane40rane40rane" src="https://github.com/user-attachments/assets/b74580eb-14e2-492e-80ad-b12466ce2177" />
 <h1 align="center">Hi 👋, I'm Bayram Atıf Sekmen</h1>
+
 <h3 align="center">
-I'm a passionate developer interested in various technologies related to software development. 
+I'm a passionate developer interested in various technologies related to software development.<br>
 I enjoy working with backend architectures, API design, database modeling, and modern frontend frameworks to create user-friendly applications.
 </h3>
 
@@ -11,11 +12,11 @@ I enjoy working with backend architectures, API design, database modeling, and m
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atfskmn&theme=flat&margin-w=10&margin-h=10" alt="atfskmn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=atfskmn&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
-<ul align="center" style="list-style-type:none;">
+<ul align="center" style="list-style:none;">
   <li>🌱 I’m currently learning <b>Spring Boot, Laravel, Quasar</b></li>
   <li>💬 Ask me about <b>Java, PHP, Vue, Python</b></li>
   <li>📫 How to reach me: <b>atfskmn14@gmail.com</b></li>
@@ -24,21 +25,25 @@ I enjoy working with backend architectures, API design, database modeling, and m
   </li>
 </ul>
 
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/bayram-sekmen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/30590195" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" />
   </a>
   <a href="https://instagram.com/ppsyche_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 </p>
 
+---
+
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -60,18 +65,18 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atfskmn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atfskmn" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atfskmn&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&locale=en&theme=tokyonight" alt="atfskmn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atfskmn&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="atfskmn" />
+  <img src="https://streak-stats.demolab.com?user=atfskmn&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727&ring=2088FF&currStreakNum=DDDDDD" alt="GitHub Streak" />
 </p>
 
 
