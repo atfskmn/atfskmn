@@ -76,8 +76,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-atfskmn.vercel.app?user=atfskmn&theme=tokyonight" />
-
+<img src="https://streak-atfskmn.vercel.app?user=atfskmn&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 
