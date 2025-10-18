@@ -95,17 +95,6 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atfskmn&theme=tokyonight" alt="GitHub Stats" width="48%" />
 </p>
 
----
-
-<h3 align="center">🚀 Recent Activity</h3>
-
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
-
-<!-- RECENT_ACTIVITY:last_update -->
-Last Updated: <!-- RECENT_ACTIVITY:last_update -->
-<!-- RECENT_ACTIVITY:last_update_end -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
