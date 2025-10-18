@@ -55,7 +55,6 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mariadb" alt="MariaDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
@@ -95,12 +94,11 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atfskmn&theme=tokyonight" alt="GitHub Stats" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
