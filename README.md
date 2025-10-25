@@ -10,10 +10,9 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" />
 </p>
 
+<!-- TROPHY SECTION - ÇÖZÜM 1 -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atfskmn&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=atfskmn&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <ul align="center" style="list-style:none;">
@@ -27,46 +26,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/bayram-sekmen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/30590195" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" />
-  </a>
-  <a href="https://instagram.com/ppsyche_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-</p>
-
+<!-- GERİ KALAN KOD AYNI -->
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
