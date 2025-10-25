@@ -1,62 +1,34 @@
-<h1 align="center">Hi 👋, I'm Bayram Atıf Sekmen</h1>
+<h1 align="center">Merhaba 👋, ben Bayram Atıf Sekmen</h1>
+<h3 align="center">Ben Atıf Sekmen, yazılım geliştirme alanında çeşitli teknolojilerle ilgilenen bir geliştiriciyim. Arka uç mimarileri, API geliştirme, veri tabanı tasarımı ve modern ön uç teknolojileriyle kullanıcı dostu uygulamalardan keyif alıyorum.</h3>
 
-<h3 align="center">
-I'm a passionate developer interested in various technologies related to software development.<br>
-I enjoy working with backend architectures, API design, database modeling, and modern frontend frameworks to create user-friendly applications.
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" />
+<p align="left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=atfskmn" alt = "atfskmn" /></a> </p>
+
+- 🌱 Şu anda **Spring boot,laravel,Quasar** öğreniyorum
+
+- 💬 Bana **Java,php,vue,python** hakkında soru sor
+
+- 📫 Nasıl yapılır Bana ulaşın **atfskmn14@gmail.com**
+
+- 📄 Deneyimlerim hakkında bilgi edinin [https://drive.google.com/file/d/1UV4plEOGo3tMrDegMukO9_RZfNdWvlHi/view?usp=sharing](https://drive.google.com/file/d/1UV4plEOGo3tMrDegMukO9_RZfNdWvlHi/view?usp=sharing)
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bayram-sekmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayram-sekmesi" height="
+30" width="40" /></a> <a href="https://stackoverflow.com/users/30590195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30590195" height="30" width="40" /></a>
+<a href="https://instagram.com/ppsyche_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ppsyche_" height="30" width="40" /></a>
 </p>
 
-<ul align="center" style="list-style:none;">
-  <li>🌱 I'm currently learning <b>Spring Boot, Laravel, Quasar</b></li>
-  <li>💬 Ask me about <b>Java, PHP, Vue, Python</b></li>
-  <li>📫 How to reach me: <b>atfskmn14@gmail.com</b></li>
-  <li>📄 Know about my experiences: 
-    <a href="https://drive.google.com/file/d/1UV4plEOGo3tMrDegMukO9_RZfNdWvlHi/view?usp=sharing" target="_blank">View my CV</a>
-  </li>
-</ul>
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" genişlik="40" yükseklik="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" genişlik="40" yükseklik="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>svg" alt="bahar" genişlik="40" yükseklik="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>svg" alt="bahar" genişlik="40" yükseklik="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atfskmn&show_icons=true&locale=tr&layout=compact" alt="atfskmn" /></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/bayram-sekmen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/30590195" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" />
-  </a>
-  <a href="https://instagram.com/ppsyche_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-</p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&locale=tr" alt="atfskmn" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atfskmn&" alt="atfskmn" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,kotlin,quasar,git,linux,mysql,postgresql,firebase,postman,c,html,css,js,bootstrap,nodejs,docker" />
-</p>
-
----
-
-<!-- GRAFİKLER - EN SONDA -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atfskmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atfskmn&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
 
 <p align="center">
   <picture>
