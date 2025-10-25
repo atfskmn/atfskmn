@@ -9,7 +9,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Basit versiyon -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
@@ -46,20 +46,9 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,kotlin,quasar,git,linux,mysql,postgresql,firebase,postman,c,html,css,js,bootstrap,nodejs,docker" />
 </p>
 
-<!-- DÜZELTİLMİŞ ACTIVITY GRAPH -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atfskmn&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atfskmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,less,jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <!-- Snake Animation -->
@@ -70,3 +59,29 @@ I enjoy working with backend architectures, API design, database modeling, and m
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
+
+---
+
+<!-- DETAYLI İSTATİSTİKLER - EN ALTA -->
+<h3 align="center">📊 Detailed GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atfskmn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,less,jupyter%20notebook" alt="Top Languages" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atfskmn&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atfskmn&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atfskmn&theme=tokyonight" alt="Repos Per Language" width="48%" />
+</p>
+
+<p align="center">
+ 
