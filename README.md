@@ -10,9 +10,10 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" />
 </p>
 
-<!-- TROPHY SECTION - ÇÖZÜM 1 -->
+<!-- ÇÖZÜM 1: GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atfskmn&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <ul align="center" style="list-style:none;">
@@ -26,8 +27,30 @@ I enjoy working with backend architectures, API design, database modeling, and m
 
 ---
 
-<!-- GERİ KALAN KOD AYNI -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/bayram-sekmen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/30590195" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/ppsyche_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+</p>
+
 ---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,kotlin,quasar,git,linux,mysql,postgresql,firebase,postman,c,html,css,js,bootstrap,nodejs,docker" />
+</p>
+
+<!-- ÇÖZÜM 2: GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=atfskmn&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
+</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
