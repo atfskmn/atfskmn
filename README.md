@@ -1,4 +1,3 @@
-<img width="1001" height="668" alt="Gemini_Generated_Image_rane40rane40rane" src="https://github.com/user-attachments/assets/b74580eb-14e2-492e-80ad-b12466ce2177" />
 <h1 align="center">Hi 👋, I'm Bayram Atıf Sekmen</h1>
 
 <h3 align="center">
@@ -10,7 +9,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://komarev.com/ghpvc/?username=atfskmn&label=Profile%20views&color=0e75b6&style=flat" alt="atfskmn" />
 </p>
 
-<!-- ÇÖZÜM 1: GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atfskmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
@@ -47,9 +46,9 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://skillicons.dev/icons?i=java,php,python,vue,laravel,spring,kotlin,quasar,git,linux,mysql,postgresql,firebase,postman,c,html,css,js,bootstrap,nodejs,docker" />
 </p>
 
-<!-- ÇÖZÜM 2: GitHub Activity Graph -->
+<!-- DÜZELTİLMİŞ ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=atfskmn&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atfskmn&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -63,21 +62,7 @@ I enjoy working with backend architectures, API design, database modeling, and m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atfskmn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,less,jupyter%20notebook" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atfskmn&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atfskmn&theme=tokyonight" alt="Most Commit Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atfskmn&theme=tokyonight" alt="Repos Per Language" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atfskmn&theme=tokyonight&utcOffset=3" alt="Productive Time" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atfskmn&theme=tokyonight" alt="GitHub Stats" width="48%" />
-</p>
-
-
+<!-- Snake Animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atfskmn/atfskmn/output/github-contribution-grid-snake-dark.svg">
